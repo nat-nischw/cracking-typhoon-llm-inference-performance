@@ -8,10 +8,10 @@ bash run.sh
 
 # Demo 
 ```bash
-python demo_gradio_vllm.py
+python  demo_gradio.py
 
 # with vllm
-python  demo_gradio.py
+python demo_gradio_vllm.py
 ```
 
 # Limitations and Discussion
