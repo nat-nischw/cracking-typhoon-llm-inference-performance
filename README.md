@@ -1,5 +1,6 @@
-# zero-day-performance-of-llm-typhoon-cracker
-Zero-Day Performance of LLM Typhoon Cracker
+# cracking-typhoon-llm-inference-performance
+
+Cracking Typhoon LLM Inference Performance
 
 # Installation
 ```
